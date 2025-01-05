@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/Users/ailsa/juice-shop-2/juice-shop/logs/.audit.json",
+    "files": [
+        {
+            "date": 1736070080235,
+            "name": "/Users/ailsa/juice-shop-2/juice-shop/logs/access.log.2025-01-05",
+            "hash": "bd212682f140d28e490c62daa2b91811"
+        }
+    ]
+}
